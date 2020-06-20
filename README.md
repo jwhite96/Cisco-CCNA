@@ -1,2 +1,2 @@
 # Cisco-CCNA
-<img src="Docs/img/PKT.jpg">
+<img src="Docs/img/PKT.png">
