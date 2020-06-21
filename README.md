@@ -14,6 +14,7 @@ Packet tracer lab I built whilst gaining my Cisco CCNA Certification.
 * HSRP
 * 802.1X
 * SPAN
+* Standard & Extended ACL
 * Telnet & SSH
 
 ## Packet Tracer Lab:
