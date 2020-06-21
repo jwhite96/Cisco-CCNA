@@ -17,4 +17,4 @@ Packet tracer lab I built whilst gaining my Cisco CCNA Certification.
 * Telnet & SSH
 
 ## Packet Tracer Lab:
-<img src="Docs/img/PKT.jpeg">
+<img src="Docs/img/PKT.jpg">
